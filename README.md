@@ -14,6 +14,11 @@ I work at the intersection of data science, machine learning, and agentic AI —
 - 🧠 Applied ML & classical data science
 - ⚙️ Getting models into services people can actually use
 
+## Featured
+
+**[EU AI Act & GDPR Assistant](https://github.com/SuneshAgarwal13/eu-ai-act-gdpr-assistant)** — grounded answers with article-level citations, or an honest abstention when the sources don’t support a claim.  
+Live: [ai-lab-web-ten.vercel.app](https://ai-lab-web-ten.vercel.app)
+
 ## Stack
 
 <!-- skillicons already ship dark tiles; other marks get a matching #151515 tile + light glyphs for GitHub dark mode -->
