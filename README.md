@@ -19,6 +19,13 @@ I work at the intersection of data science, machine learning, and agentic AI —
 **[EU AI Act & GDPR Assistant](https://github.com/SuneshAgarwal13/eu-ai-act-gdpr-assistant)** — grounded answers with article-level citations, or an honest abstention when the sources don’t support a claim.  
 Live: [ai-lab-web-ten.vercel.app](https://ai-lab-web-ten.vercel.app)
 
+**[LLM Audit](https://github.com/SuneshAgarwal13/llm-audit)** — LLM cost and reliability audit toolkit. Content-free: only hashes and token counts are stored.
+
+
+https://github.com/user-attachments/assets/960b923f-991a-461f-b6c4-ec39e8a6084f
+
+
+
 ## Stack
 
 <!-- skillicons already ship dark tiles; other marks get a matching #151515 tile + light glyphs for GitHub dark mode -->
@@ -26,6 +33,7 @@ Live: [ai-lab-web-ten.vercel.app](https://ai-lab-web-ten.vercel.app)
   <a href="https://www.python.org" title="Python"><img src="https://skillicons.dev/icons?i=py" height="48" alt="Python" /></a>
   <a href="https://pandas.pydata.org" title="pandas"><img src="https://cdn.simpleicons.org/pandas/E70488" height="48" width="48" alt="pandas" style="background-color:#151515;border-radius:8px;padding:8px;box-sizing:border-box" /></a>
   <a href="https://scikit-learn.org" title="scikit-learn"><img src="https://skillicons.dev/icons?i=sklearn" height="48" alt="scikit-learn" /></a>
+  
   <a href="https://pytorch.org" title="PyTorch"><img src="https://skillicons.dev/icons?i=pytorch" height="48" alt="PyTorch" /></a>
   <a href="https://www.langchain.com/langgraph" title="LangGraph"><img src="https://cdn.simpleicons.org/langgraph/FFFFFF" height="48" width="48" alt="LangGraph" style="background-color:#151515;border-radius:8px;padding:8px;box-sizing:border-box" /></a>
   <a href="https://www.langchain.com/langchain" title="LangChain"><img src="https://cdn.simpleicons.org/langchain/FFFFFF" height="48" width="48" alt="LangChain" style="background-color:#151515;border-radius:8px;padding:8px;box-sizing:border-box" /></a>
